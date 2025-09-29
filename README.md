@@ -37,7 +37,7 @@ I'm a passionate developer from Morocco 🇲🇦 — currently focused on buildi
 
 ## 🌐 Live Portfolio
 
-> Visit the website: [https://hamza-boussalham.github.io](https://hamza-boussalham.github.io)  
+> Visit the website: [Hamza Boussalham](https://kuriboh23.github.io/Hamza-Boussalham/)
 (If it doesn't load, I'm fixing the deployment — check back soon 😄)
 
 ---
